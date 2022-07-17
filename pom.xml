@@ -3,4 +3,8 @@
   <groupId>in1</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+	<project.theme.name>default</project.theme.name>
+	<project.name>default1</project.name>
+	</properties>
 </project>
